@@ -4,6 +4,7 @@ ___
 ## Repository
 
 `extractionCatalogs`: contains the Python program created by Juliette Janès and updated by Esteban Sánchez Oeconomo, the ALTO files (`data_alto`) from the catalogues to be processed, the ODD to use in TEI files (`ODD_Artlas.rng`) and the XSLT stylesheet to transform the TEI file into CSV (`XMLtoCSV.xsl`).
+
 `visualisation`: contains the Python notebooks used to make maps (`cartographie_folium_city.ipynb` and `cartographie_folium_street.ipynb`) and word clouds (`wordcloud.ipynb`), and the TSV files to be processed.
 
 ## How to run the extractionCatalogs program
