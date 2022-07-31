@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>50_d1d0c_default.jpg</fileName>
+      <fileIdentifier>https://cdm16028.contentdm.oclc.org/iiif/2/p15324coll19:2915/full/full/0/default.jpg</fileIdentifier>
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT306" LABEL="CustomZone:entry" DESCRIPTION="block type CustomZone:entry"/><OtherTag ID="BT307" LABEL="CustomZone:entryEnd" DESCRIPTION="block type CustomZone:entryEnd"/><OtherTag ID="BT308" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT309" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT310" LABEL="GraphicZone:ornamentation" DESCRIPTION="block type GraphicZone:ornamentation"/><OtherTag ID="BT311" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT314" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT315" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/>
+    <OtherTag ID="LT110" LABEL="CustomLine" DESCRIPTION="line type CustomLine"/><OtherTag ID="LT111" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT112" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="933"
+          HEIGHT="1495"
+          PHYSICAL_IMG_NR="50"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="933"
+                  HEIGHT="1495">
+        
+        <TextBlock HPOS="119"
+                   VPOS="485"
+                   WIDTH="622"
+                   HEIGHT="98"
+                   ID="eSc_textblock_3006f5eb"
+                   TAGREFS="BT306">
+          <Shape><Polygon POINTS="119 485 119 583 741 583 741 485"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_727be226"
+                    TAGREFS="LT111"
+                    BASELINE="217 508 700 508" 
+                    HPOS="217"
+                    VPOS="474"
+                    WIDTH="483"
+                    HEIGHT="46">
+            <Shape><Polygon POINTS="217 508 217 482 395 482 404 474 404 474 405 474 405 474 406 474 406 474 406 474 407 474 407 474 455 480 501 474 501 474 502 474 700 482 700 508 700 520 217 520"/></Shape>
+	    <String CONTENT="VERJUS (J.), 5 bis, rue des Rosiers, Paris."
+                    HPOS="217"
+                    VPOS="474"
+                    WIDTH="483"
+                    HEIGHT="46"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_882845f8"
+                    TAGREFS="LT111"
+                    BASELINE="128 544 733 541" 
+                    HPOS="125"
+                    VPOS="508"
+                    WIDTH="608"
+                    HEIGHT="42">
+            <Shape><Polygon POINTS="128 544 125 509 352 515 371 509 371 509 372 509 372 509 374 509 696 514 729 508 733 541 732 548 128 550"/></Shape>
+	    <String CONTENT="603 — Coucher de Soleil au Bouveret (Suisse). A. Pl."
+                    HPOS="125"
+                    VPOS="508"
+                    WIDTH="608"
+                    HEIGHT="42"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7264c0a1"
+                    TAGREFS="LT111"
+                    BASELINE="128 574 708 571" 
+                    HPOS="127"
+                    VPOS="543"
+                    WIDTH="581"
+                    HEIGHT="38">
+            <Shape><Polygon POINTS="128 574 127 543 705 548 708 571 707 581 128 581"/></Shape>
+	    <String CONTENT="604 — Effet du Matin à Villeneuve (Suisse). A. Pl."
+                    HPOS="127"
+                    VPOS="543"
+                    WIDTH="581"
+                    HEIGHT="38"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="114"
+                   VPOS="606"
+                   WIDTH="670"
+                   HEIGHT="172"
+                   ID="eSc_textblock_3a22e005"
+                   TAGREFS="BT306">
+          <Shape><Polygon POINTS="114 606 114 778 784 778 784 606"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_2b2529f0"
+                    TAGREFS="LT111"
+                    BASELINE="214 634 778 637" 
+                    HPOS="213"
+                    VPOS="604"
+                    WIDTH="565"
+                    HEIGHT="48">
+            <Shape><Polygon POINTS="214 634 214 604 777 607 778 637 774 652 752 646 697 652 692 652 692 652 691 652 684 652 627 646 598 651 592 652 592 652 592 652 591 652 591 652 591 652 589 652 589 652 587 651 572 645 508 645 502 650 502 651 502 651 502 651 501 651 501 651 501 651 500 651 500 651 498 651 498 651 498 651 497 651 496 651 476 645 450 651 445 651 445 651 444 651 328 650 328 650 328 650 326 650 326 650 326 650 326 650 325 650 325 650 325 649 319 644 213 649"/></Shape>
+	    <String CONTENT="VERWAEST (Docteur A.), 169, rue Saint-Jacques,"
+                    HPOS="213"
+                    VPOS="604"
+                    WIDTH="565"
+                    HEIGHT="48"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_086fd79f"
+                    TAGREFS="LT111"
+                    BASELINE="238 665 311 665" 
+                    HPOS="236"
+                    VPOS="636"
+                    WIDTH="75"
+                    HEIGHT="39">
+            <Shape><Polygon POINTS="238 665 236 644 280 636 280 636 281 636 281 636 281 636 311 644 311 665 311 675 238 675"/></Shape>
+	    <String CONTENT="Paris."
+                    HPOS="236"
+                    VPOS="636"
+                    WIDTH="75"
+                    HEIGHT="39"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_88b93392"
+                    TAGREFS="LT111"
+                    BASELINE="124 703 520 700" 
+                    HPOS="120"
+                    VPOS="673"
+                    WIDTH="400"
+                    HEIGHT="40">
+            <Shape><Polygon POINTS="124 703 120 675 516 673 520 700 520 710 124 713"/></Shape>
+	    <String CONTENT="605 — Labour en Sologne. D. Pl."
+                    HPOS="120"
+                    VPOS="673"
+                    WIDTH="400"
+                    HEIGHT="40"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8a2433d2"
+                    TAGREFS="LT111"
+                    BASELINE="125 732 370 728" 
+                    HPOS="122"
+                    VPOS="698"
+                    WIDTH="248"
+                    HEIGHT="42">
+            <Shape><Polygon POINTS="125 732 122 708 149 701 150 701 150 701 152 701 152 701 190 705 202 706 366 698 370 728 369 735 125 740"/></Shape>
+	    <String CONTENT="606 — Givre. D. Pl."
+                    HPOS="122"
+                    VPOS="698"
+                    WIDTH="248"
+                    HEIGHT="42"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_80eedbe0"
+                    TAGREFS="LT111"
+                    BASELINE="125 761 485 758" 
+                    HPOS="123"
+                    VPOS="726"
+                    WIDTH="362"
+                    HEIGHT="41">
+            <Shape><Polygon POINTS="125 761 123 737 255 728 256 728 256 728 256 728 258 728 271 732 278 735 280 732 286 727 286 726 286 726 288 726 288 726 288 726 289 726 289 726 290 726 481 727 485 758 483 767 124 766"/></Shape>
+	    <String CONTENT="607 — A Cernay (Oise). D. Pl."
+                    HPOS="123"
+                    VPOS="726"
+                    WIDTH="362"
+                    HEIGHT="41"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="119"
+                   VPOS="796"
+                   WIDTH="684"
+                   HEIGHT="146"
+                   ID="eSc_textblock_9f1ad365"
+                   TAGREFS="BT306">
+          <Shape><Polygon POINTS="119 796 119 942 803 942 803 796"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_03f437ba"
+                    TAGREFS="LT111"
+                    BASELINE="212 824 613 822 778 821" 
+                    HPOS="205"
+                    VPOS="791"
+                    WIDTH="572"
+                    HEIGHT="44">
+            <Shape><Polygon POINTS="210 823 205 802 213 794 213 793 213 793 214 793 214 793 214 793 215 793 215 793 217 793 372 793 372 793 372 793 374 793 374 793 374 793 375 793 375 793 375 794 380 799 395 793 395 793 396 793 396 793 396 793 397 793 397 793 399 793 399 793 399 793 400 793 410 799 431 793 432 793 432 793 432 793 434 793 528 798 552 799 557 798 578 792 580 792 580 792 580 792 581 792 581 792 582 792 582 792 582 792 583 792 592 798 601 791 601 791 602 791 602 791 602 791 603 791 603 791 604 791 604 791 604 791 606 791 606 791 606 791 607 791 617 798 618 798 618 798 632 792 632 792 633 792 633 792 633 792 634 792 634 792 634 792 636 792 652 797 656 799 707 799 709 797 718 791 719 791 719 791 719 791 720 791 720 791 720 791 722 791 722 791 723 791 723 791 723 791 734 797 738 798 773 797 777 819 775 828 589 835 588 835 209 832"/></Shape>
+	    <String CONTENT="VIEUILLE (S.), S. F. P., 10, rue Dalayrac, Fon¬"
+                    HPOS="205"
+                    VPOS="791"
+                    WIDTH="572"
+                    HEIGHT="44"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9f0dd8ce"
+                    TAGREFS="LT111"
+                    BASELINE="236 854 426 854" 
+                    HPOS="235"
+                    VPOS="828"
+                    WIDTH="192"
+                    HEIGHT="36">
+            <Shape><Polygon POINTS="236 854 235 837 330 828 331 828 404 828 404 828 404 828 405 828 405 828 427 837 426 854 425 864 235 860"/></Shape>
+	    <String CONTENT="tenay-sous-Bois."
+                    HPOS="235"
+                    VPOS="828"
+                    WIDTH="192"
+                    HEIGHT="36"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b37c8f88"
+                    TAGREFS="LT111"
+                    BASELINE="124 890 778 888" 
+                    HPOS="122"
+                    VPOS="854"
+                    WIDTH="656"
+                    HEIGHT="46">
+            <Shape><Polygon POINTS="124 890 122 860 422 855 424 855 424 855 425 855 425 855 425 855 426 855 426 855 432 862 435 863 461 862 558 854 560 854 560 854 642 862 643 862 643 862 661 854 661 854 662 854 662 854 662 854 663 854 663 854 664 854 664 854 664 854 666 854 666 854 666 855 673 862 673 863 704 863 714 863 750 854 750 854 750 854 752 854 752 854 753 854 753 854 777 863 778 888 777 900 124 900"/></Shape>
+	    <String CONTENT="608 — Matinée de Printemps (Bords de la Marne). D."
+                    HPOS="122"
+                    VPOS="854"
+                    WIDTH="656"
+                    HEIGHT="46"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_085c1ada"
+                    TAGREFS="LT111"
+                    BASELINE="238 919 306 919" 
+                    HPOS="238"
+                    VPOS="889"
+                    WIDTH="68"
+                    HEIGHT="36">
+            <Shape><Polygon POINTS="238 919 238 889 306 898 306 919 306 925 238 925"/></Shape>
+	    <String CONTENT="G. cl."
+                    HPOS="238"
+                    VPOS="889"
+                    WIDTH="68"
+                    HEIGHT="36"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="114"
+                   VPOS="954"
+                   WIDTH="675"
+                   HEIGHT="107"
+                   ID="eSc_textblock_da45dfc5"
+                   TAGREFS="BT306">
+          <Shape><Polygon POINTS="114 954 114 1061 789 1061 789 954"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_9d41a9f4"
+                    TAGREFS="LT111"
+                    BASELINE="212 976 782 976" 
+                    HPOS="210"
+                    VPOS="943"
+                    WIDTH="572"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="212 976 213 943 230 949 253 943 254 943 255 943 255 943 256 943 782 950 782 976 782 982 744 990 744 990 743 990 210 985"/></Shape>
+	    <String CONTENT="VRAC, Société Caennaise de Photographie, 20, place"
+                    HPOS="210"
+                    VPOS="943"
+                    WIDTH="572"
+                    HEIGHT="47"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_db906dc6"
+                    TAGREFS="LT111"
+                    BASELINE="234 1006 587 1006" 
+                    HPOS="233"
+                    VPOS="972"
+                    WIDTH="354"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="234 1006 233 974 586 972 587 1006 584 1021 557 1015 341 1021 329 1021 328 1021 328 1021 326 1021 326 1021 326 1021 326 1021 325 1021 315 1015 249 1015 235 1021"/></Shape>
+	    <String CONTENT="Saint-Martin, Caen (Calvados)."
+                    HPOS="233"
+                    VPOS="972"
+                    WIDTH="354"
+                    HEIGHT="49"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2f3a3445"
+                    TAGREFS="LT111"
+                    BASELINE="123 1042 411 1042" 
+                    HPOS="120"
+                    VPOS="1007"
+                    WIDTH="291"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="123 1042 123 1007 173 1015 276 1015 281 1010 284 1007 284 1007 285 1007 285 1007 285 1007 286 1007 286 1007 286 1007 288 1007 411 1012 411 1042 410 1056 173 1050 169 1050 138 1056 138 1056 138 1056 137 1056 137 1056 135 1056 135 1056 135 1056 120 1048"/></Shape>
+	    <String CONTENT="609 — Méditation. D. S."
+                    HPOS="120"
+                    VPOS="1007"
+                    WIDTH="291"
+                    HEIGHT="49"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="114"
+                   VPOS="1086"
+                   WIDTH="666"
+                   HEIGHT="135"
+                   ID="eSc_textblock_05f0289a"
+                   TAGREFS="BT306">
+          <Shape><Polygon POINTS="114 1086 114 1221 780 1221 780 1086"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_190fa741"
+                    TAGREFS="LT111"
+                    BASELINE="212 1108 779 1103" 
+                    HPOS="212"
+                    VPOS="1067"
+                    WIDTH="567"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="212 1108 212 1072 229 1078 273 1072 305 1068 305 1068 306 1068 306 1068 341 1073 369 1077 375 1073 387 1067 387 1067 387 1067 389 1067 389 1067 390 1067 475 1067 475 1067 475 1067 476 1067 476 1067 476 1067 477 1067 487 1075 493 1080 521 1080 528 1075 543 1068 543 1068 545 1068 545 1068 545 1068 546 1068 546 1068 592 1076 609 1078 613 1076 622 1070 623 1070 623 1070 623 1070 624 1070 624 1070 624 1070 626 1070 626 1070 627 1070 654 1076 658 1077 659 1077 671 1068 672 1068 672 1068 672 1068 673 1068 673 1068 674 1068 674 1068 674 1068 676 1068 676 1068 676 1068 677 1068 689 1077 691 1078 777 1078 779 1103 779 1115 212 1121"/></Shape>
+	    <String CONTENT="WALDBERG (Baron Jules de), C. C. V., I Do¬"
+                    HPOS="212"
+                    VPOS="1067"
+                    WIDTH="567"
+                    HEIGHT="54"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_31d752e1"
+                    TAGREFS="LT111"
+                    BASELINE="233 1137 616 1137" 
+                    HPOS="232"
+                    VPOS="1102"
+                    WIDTH="384"
+                    HEIGHT="50">
+            <Shape><Polygon POINTS="233 1137 232 1121 335 1111 336 1111 336 1111 366 1115 394 1118 400 1113 405 1108 405 1107 405 1107 406 1107 406 1107 406 1107 407 1107 407 1107 449 1102 450 1102 616 1105 616 1137 614 1152 232 1147"/></Shape>
+	    <String CONTENT="blhoffgasse, 7, Vienne (Autriche)."
+                    HPOS="232"
+                    VPOS="1102"
+                    WIDTH="384"
+                    HEIGHT="50"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7d06e726"
+                    TAGREFS="LT111"
+                    BASELINE="120 1173 467 1173" 
+                    HPOS="120"
+                    VPOS="1146"
+                    WIDTH="347"
+                    HEIGHT="38">
+            <Shape><Polygon POINTS="120 1173 120 1146 467 1148 467 1173 467 1183 120 1184"/></Shape>
+	    <String CONTENT="610 — Le Braconnier. D. Pl."
+                    HPOS="120"
+                    VPOS="1146"
+                    WIDTH="347"
+                    HEIGHT="38"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5f2f3e4e"
+                    TAGREFS="LT111"
+                    BASELINE="122 1203 399 1200" 
+                    HPOS="116"
+                    VPOS="1169"
+                    WIDTH="283"
+                    HEIGHT="50">
+            <Shape><Polygon POINTS="122 1203 116 1183 123 1173 124 1173 124 1173 124 1172 124 1172 125 1172 125 1172 125 1172 127 1172 127 1172 128 1172 128 1172 205 1179 258 1169 258 1169 259 1169 293 1169 293 1169 293 1169 294 1169 294 1169 295 1169 295 1169 308 1179 344 1179 355 1171 356 1171 356 1171 356 1171 357 1171 357 1171 357 1171 359 1171 359 1171 359 1171 396 1179 399 1200 399 1212 374 1218 374 1218 374 1218 372 1218 372 1218 371 1218 371 1218 371 1218 360 1213 351 1208 343 1213 331 1218 331 1218 331 1218 330 1218 330 1218 329 1218 329 1218 328 1218 328 1218 313 1213 299 1208 283 1213 260 1219 259 1219 259 1219 258 1219 258 1219 258 1219 228 1213 208 1209 122 1213"/></Shape>
+	    <String CONTENT="611 — Paysage. D. Pl."
+                    HPOS="116"
+                    VPOS="1169"
+                    WIDTH="283"
+                    HEIGHT="50"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="112"
+                   VPOS="1235"
+                   WIDTH="670"
+                   HEIGHT="119"
+                   ID="eSc_textblock_bc3a8bce"
+                   TAGREFS="BT306">
+          <Shape><Polygon POINTS="112 1235 112 1354 782 1354 782 1235"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_2dc50408"
+                    TAGREFS="LT111"
+                    BASELINE="209 1262 558 1260 777 1259" 
+                    HPOS="205"
+                    VPOS="1234"
+                    WIDTH="570"
+                    HEIGHT="46">
+            <Shape><Polygon POINTS="208 1260 205 1235 772 1234 775 1258 774 1278 717 1271 644 1278 636 1278 634 1278 634 1278 634 1278 633 1278 633 1278 633 1278 632 1278 618 1270 606 1278 606 1278 604 1278 604 1278 603 1278 603 1278 603 1278 602 1278 602 1278 602 1278 601 1278 598 1278 573 1269 521 1276 502 1279 502 1279 502 1280 466 1280 465 1279 465 1279 464 1279 464 1279 464 1279 462 1279 462 1279 462 1278 460 1276 455 1270 440 1276 431 1279 431 1279 430 1279 430 1279 429 1279 376 1278 376 1278 376 1278 375 1278 375 1278 375 1278 374 1278 374 1278 374 1276 372 1275 366 1270 350 1275 339 1279 338 1279 338 1279 338 1279 336 1279 336 1279 336 1279 335 1279 335 1279 326 1275 315 1270 208 1274"/></Shape>
+	    <String CONTENT="WALLON (Étienne), S. F. P., 65, rue de Prony,"
+                    HPOS="205"
+                    VPOS="1234"
+                    WIDTH="570"
+                    HEIGHT="46"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ef77f178"
+                    TAGREFS="LT111"
+                    BASELINE="233 1289 308 1289" 
+                    HPOS="232"
+                    VPOS="1260"
+                    WIDTH="77"
+                    HEIGHT="40">
+            <Shape><Polygon POINTS="233 1289 232 1265 279 1260 279 1260 280 1260 280 1260 281 1260 309 1268 308 1289 306 1300 232 1295"/></Shape>
+	    <String CONTENT="Paris."
+                    HPOS="232"
+                    VPOS="1260"
+                    WIDTH="77"
+                    HEIGHT="40"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a436e757"
+                    TAGREFS="LT111"
+                    BASELINE="120 1326 576 1323" 
+                    HPOS="116"
+                    VPOS="1285"
+                    WIDTH="460"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="120 1326 116 1294 127 1288 127 1288 127 1288 128 1288 128 1288 128 1288 129 1288 129 1288 130 1288 130 1288 130 1288 132 1288 140 1294 147 1299 264 1299 300 1298 304 1293 310 1288 310 1286 310 1286 311 1286 311 1286 311 1286 313 1286 313 1286 313 1286 314 1286 381 1293 394 1293 400 1291 435 1285 435 1285 435 1285 436 1285 573 1291 576 1323 575 1333 496 1341 496 1341 495 1341 495 1341 493 1341 493 1341 493 1341 483 1335 476 1333 427 1333 419 1338 412 1343 411 1343 411 1343 411 1343 410 1343 410 1343 410 1343 409 1343 409 1343 407 1343 407 1343 407 1343 406 1343 406 1343 406 1341 402 1338 397 1334 335 1340 314 1341 313 1341 313 1341 313 1341 306 1340 271 1334 249 1343 244 1344 244 1344 243 1344 243 1344 243 1344 120 1345"/></Shape>
+	    <String CONTENT="612 — Effet de Soir (Golfe Juan). Hel."
+                    HPOS="116"
+                    VPOS="1285"
+                    WIDTH="460"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="105"
+                   VPOS="473"
+                   WIDTH="711"
+                   HEIGHT="908"
+                   ID="eSc_textblock_4eea4e42"
+                   TAGREFS="BT308">
+          <Shape><Polygon POINTS="105 473 105 1381 809 1379 816 473"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="217"
+                   VPOS="139"
+                   WIDTH="490"
+                   HEIGHT="318"
+                   ID="eSc_textblock_80914b68"
+                   TAGREFS="BT309">
+          <Shape><Polygon POINTS="217 139 217 457 704 457 707 139"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

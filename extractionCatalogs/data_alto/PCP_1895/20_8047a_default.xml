@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>20_8047a_default.jpg</fileName>
+      <fileIdentifier>https://cdm16028.contentdm.oclc.org/iiif/2/p15324coll19:2885/full/full/0/default.jpg</fileIdentifier>
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT306" LABEL="CustomZone:entry" DESCRIPTION="block type CustomZone:entry"/><OtherTag ID="BT307" LABEL="CustomZone:entryEnd" DESCRIPTION="block type CustomZone:entryEnd"/><OtherTag ID="BT308" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT309" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT310" LABEL="GraphicZone:ornamentation" DESCRIPTION="block type GraphicZone:ornamentation"/><OtherTag ID="BT311" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT314" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT315" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/>
+    <OtherTag ID="LT110" LABEL="CustomLine" DESCRIPTION="line type CustomLine"/><OtherTag ID="LT111" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT112" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="933"
+          HEIGHT="1495"
+          PHYSICAL_IMG_NR="20"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="933"
+                  HEIGHT="1495">
+        
+        <TextBlock HPOS="192"
+                   VPOS="1148"
+                   WIDTH="588"
+                   HEIGHT="91"
+                   ID="eSc_textblock_78fec708"
+                   TAGREFS="BT311">
+          <Shape><Polygon POINTS="192 1148 192 1239 780 1239 780 1148"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_17146a9d"
+                    TAGREFS="LT111"
+                    BASELINE="199 1161 381 1163" 
+                    HPOS="199"
+                    VPOS="1128"
+                    WIDTH="182"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="199 1161 199 1128 381 1133 381 1163 377 1191 354 1181 315 1181 291 1191 289 1191 289 1191 288 1191 288 1191 288 1192 227 1192 225 1191 225 1191 224 1191 224 1191 224 1191 223 1191 222 1189 210 1182 200 1189"/></Shape>
+	    <String CONTENT="Photogravure Lemercier"
+                    HPOS="199"
+                    VPOS="1128"
+                    WIDTH="182"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c7054481"
+                    TAGREFS="LT111"
+                    BASELINE="637 1164 777 1162" 
+                    HPOS="633"
+                    VPOS="1134"
+                    WIDTH="144"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="637 1164 633 1137 773 1134 777 1162 777 1181 698 1187 697 1187 697 1187 636 1177"/></Shape>
+	    <String CONTENT="Phototype Mc Buquet"
+                    HPOS="633"
+                    VPOS="1134"
+                    WIDTH="144"
+                    HEIGHT="53"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_da61368e"
+                    TAGREFS="LT111"
+                    BASELINE="457 1218 518 1219" 
+                    HPOS="455"
+                    VPOS="1178"
+                    WIDTH="65"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="457 1218 459 1178 520 1194 518 1219 516 1243 455 1237"/></Shape>
+	    <String CONTENT="&quot;Zozo&quot;"
+                    HPOS="455"
+                    VPOS="1178"
+                    WIDTH="65"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="199"
+                   VPOS="293"
+                   WIDTH="585"
+                   HEIGHT="855"
+                   ID="eSc_textblock_fc5bba05"
+                   TAGREFS="BT309">
+          <Shape><Polygon POINTS="199 293 199 1148 784 1148 784 293"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>22_06899_default.jpg</fileName>
+      <fileIdentifier>https://cdm16028.contentdm.oclc.org/iiif/2/p15324coll19:4573/full/full/0/default.jpg</fileIdentifier>
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT298" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT299" LABEL="CustomZone:entry" DESCRIPTION="block type CustomZone:entry"/><OtherTag ID="BT300" LABEL="CustomZone:entryEnd" DESCRIPTION="block type CustomZone:entryEnd"/><OtherTag ID="BT301" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT302" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT303" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT304" LABEL="GraphicZone:ornamentation" DESCRIPTION="block type GraphicZone:ornamentation"/><OtherTag ID="BT305" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/>
+    <OtherTag ID="LT108" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT109" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="568"
+          HEIGHT="1018"
+          PHYSICAL_IMG_NR="22"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="568"
+                  HEIGHT="1018">
+        
+        <TextBlock HPOS="448"
+                   VPOS="409"
+                   WIDTH="41"
+                   HEIGHT="167"
+                   ID="eSc_textblock_9d249bb2"
+                   TAGREFS="BT305">
+          <Shape><Polygon POINTS="489 576 489 409 448 410 448 576"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_9e7d0ed0"
+                    TAGREFS="LT108"
+                    BASELINE="470 569 469 415" 
+                    HPOS="444"
+                    VPOS="413"
+                    WIDTH="48"
+                    HEIGHT="155">
+            <Shape><Polygon POINTS="469 568 444 567 449 545 445 524 444 517 444 516 444 515 445 511 449 501 449 414 468 414 478 413 484 440 484 441 483 460 480 481 485 493 492 508 492 509 489 526 487 536 492 566"/></Shape>
+	    <String CONTENT="Maurice Bucquet"
+                    HPOS="444"
+                    VPOS="413"
+                    WIDTH="48"
+                    HEIGHT="155"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="48"
+                   VPOS="195"
+                   WIDTH="392"
+                   HEIGHT="607"
+                   ID="eSc_textblock_c5731854"
+                   TAGREFS="BT303">
+          <Shape><Polygon POINTS="48 195 48 802 440 802 440 195"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

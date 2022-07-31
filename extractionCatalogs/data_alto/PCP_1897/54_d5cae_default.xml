@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>54_d5cae_default.jpg</fileName>
+      <fileIdentifier>https://cdm16028.contentdm.oclc.org/iiif/2/p15324coll19:4605/full/full/0/default.jpg</fileIdentifier>
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT298" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT299" LABEL="CustomZone:entry" DESCRIPTION="block type CustomZone:entry"/><OtherTag ID="BT300" LABEL="CustomZone:entryEnd" DESCRIPTION="block type CustomZone:entryEnd"/><OtherTag ID="BT301" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT302" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT303" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT304" LABEL="GraphicZone:ornamentation" DESCRIPTION="block type GraphicZone:ornamentation"/><OtherTag ID="BT305" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/>
+    <OtherTag ID="LT108" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT109" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="568"
+          HEIGHT="1052"
+          PHYSICAL_IMG_NR="54"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="568"
+                  HEIGHT="1052">
+        
+        <TextBlock HPOS="204"
+                   VPOS="735"
+                   WIDTH="127"
+                   HEIGHT="38"
+                   ID="eSc_textblock_87ede755"
+                   TAGREFS="BT305">
+          <Shape><Polygon POINTS="204 735 204 773 331 773 331 735"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_90948516"
+                    TAGREFS="LT108"
+                    BASELINE="212 756 326 754" 
+                    HPOS="210"
+                    VPOS="726"
+                    WIDTH="116"
+                    HEIGHT="46">
+            <Shape><Polygon POINTS="212 756 210 727 245 727 245 727 245 727 246 727 246 727 246 727 247 727 247 727 248 728 253 732 269 729 283 726 283 726 283 726 284 726 284 726 324 732 326 754 325 772 211 767"/></Shape>
+	    <String CONTENT="R. Le Bègue"
+                    HPOS="210"
+                    VPOS="726"
+                    WIDTH="116"
+                    HEIGHT="46"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="108"
+                   VPOS="209"
+                   WIDTH="322"
+                   HEIGHT="515"
+                   ID="eSc_textblock_8922efd8"
+                   TAGREFS="BT303">
+          <Shape><Polygon POINTS="108 209 108 724 430 724 430 209"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

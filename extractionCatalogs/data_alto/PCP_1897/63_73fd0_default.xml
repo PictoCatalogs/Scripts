@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>63_73fd0_default.jpg</fileName>
+      <fileIdentifier>https://cdm16028.contentdm.oclc.org/iiif/2/p15324coll19:4614/full/full/0/default.jpg</fileIdentifier>
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT298" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT299" LABEL="CustomZone:entry" DESCRIPTION="block type CustomZone:entry"/><OtherTag ID="BT300" LABEL="CustomZone:entryEnd" DESCRIPTION="block type CustomZone:entryEnd"/><OtherTag ID="BT301" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT302" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT303" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT304" LABEL="GraphicZone:ornamentation" DESCRIPTION="block type GraphicZone:ornamentation"/><OtherTag ID="BT305" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/>
+    <OtherTag ID="LT108" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT109" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="568"
+          HEIGHT="1052"
+          PHYSICAL_IMG_NR="63"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="568"
+                  HEIGHT="1052">
+        
+        <TextBlock HPOS="442"
+                   VPOS="452"
+                   WIDTH="31"
+                   HEIGHT="88"
+                   ID="eSc_textblock_2962590c"
+                   TAGREFS="BT305">
+          <Shape><Polygon POINTS="442 452 442 540 473 540 473 452"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_b9298dbf"
+                    TAGREFS="LT108"
+                    BASELINE="460 533 460 456" 
+                    HPOS="433"
+                    VPOS="454"
+                    WIDTH="48"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="459 532 438 532 433 476 433 476 433 476 433 476 433 475 439 454 459 455 479 454 481 481 481 482 481 482 481 482 481 483 481 483 481 483 481 483 474 491 470 499 470 532"/></Shape>
+	    <String CONTENT="C. Puyo"
+                    HPOS="433"
+                    VPOS="454"
+                    WIDTH="48"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="40"
+                   VPOS="242"
+                   WIDTH="392"
+                   HEIGHT="512"
+                   ID="eSc_textblock_2a66155f"
+                   TAGREFS="BT303">
+          <Shape><Polygon POINTS="40 242 40 754 432 754 432 242"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

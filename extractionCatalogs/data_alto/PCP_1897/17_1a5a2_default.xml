@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>17_1a5a2_default.jpg</fileName>
+      <fileIdentifier>https://cdm16028.contentdm.oclc.org/iiif/2/p15324coll19:4568/full/full/0/default.jpg</fileIdentifier>
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT298" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT299" LABEL="CustomZone:entry" DESCRIPTION="block type CustomZone:entry"/><OtherTag ID="BT300" LABEL="CustomZone:entryEnd" DESCRIPTION="block type CustomZone:entryEnd"/><OtherTag ID="BT301" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT302" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT303" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT304" LABEL="GraphicZone:ornamentation" DESCRIPTION="block type GraphicZone:ornamentation"/><OtherTag ID="BT305" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/>
+    <OtherTag ID="LT108" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT109" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="568"
+          HEIGHT="1018"
+          PHYSICAL_IMG_NR="17"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="568"
+                  HEIGHT="1018">
+        
+        <TextBlock HPOS="440"
+                   VPOS="424"
+                   WIDTH="46"
+                   HEIGHT="148"
+                   ID="eSc_textblock_e18c6a83"
+                   TAGREFS="BT305">
+          <Shape><Polygon POINTS="440 424 440 572 486 572 486 424"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_fe2ab8f1"
+                    TAGREFS="LT108"
+                    BASELINE="460 549 461 431" 
+                    HPOS="432"
+                    VPOS="428"
+                    WIDTH="44"
+                    HEIGHT="120">
+            <Shape><Polygon POINTS="459 548 432 546 438 508 435 481 433 458 438 428 460 430 467 428 475 441 475 442 476 443 476 475 475 475 475 476 471 483 468 487 468 526 474 547"/></Shape>
+	    <String CONTENT="P. Bourgeois"
+                    HPOS="432"
+                    VPOS="428"
+                    WIDTH="44"
+                    HEIGHT="120"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="52"
+                   VPOS="159"
+                   WIDTH="382"
+                   HEIGHT="677"
+                   ID="eSc_textblock_da37103a"
+                   TAGREFS="BT303">
+          <Shape><Polygon POINTS="52 160 52 836 434 835 434 159"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
