@@ -7,6 +7,10 @@ ___
 
 `visualisation`: contains the Python notebooks used to make maps (`cartographie_folium_city.ipynb` and `cartographie_folium_street.ipynb`) and word clouds (`wordcloud.ipynb`), and the TSV files to be processed.
 
+To learn more about the extractionCatalogs program see the [original repository](https://github.com/IMAGO-Catalogues-Jjanes/extractionCatalogs). 
+All the output and corrected TEI files are available [here](https://github.com/PictoCatalogs/Corpus/tree/main/TEI).
+All the visualisations generated with the notebooks are available [here](https://github.com/PictoCatalogs/Corpus/tree/main/data_viz)
+
 ## How to run the extractionCatalogs program
 
 The program is still being modified, for the moment the command to use to run it is the following:
@@ -16,9 +20,12 @@ The program is still being modified, for the moment the command to use to run it
 For example : 
 `python3 run.py data_alto/PCP_1894/ data_alto/ PCP_1894_TEI.xml Double -v`
 
+The file `extraction_PCP_1894_TEI` is an example of output of the program, with the entries extracted from the catalogues structured in TEI.
+
+
 ## Credits
 
-This repository is developed by Frédérine Pradier, University of Geneva. This work has benefited greatly from the datasets and workflows provided by Juliette Janès, Esteban Sánchez Oeconomo and Caroline Corbières for the [Artl@s project](https://artlas.huma-num.fr).
+This repository is developed by Frédérine Pradier, University of Geneva. This work has benefited greatly from the datasets and workflows provided by Juliette Janès, Esteban Sánchez Oeconomo and Caroline Corbières for the [Artl@s project](https://artlas.huma-num.fr). The notebooks were produced thanks to courses and workshops organised by Béatrice Joyeux-Prunel, Chair of Digital Humanities, at the University of Geneva.
 
 Esteban Sánchez Oeconomo, Juliette Janès, Simon Gabay, Béatrice Joyeux-Prunel, *extractionCatalogs: Python data extractor for exhibition catalogs*, 2022, Paris: ENS Paris, IMAGO / Geneva: Université de Genève, [https://github.com/IMAGO-Catalogues-Jjanes/extractionCatalogs](https://github.com/IMAGO-Catalogues-Jjanes/extractionCatalogs) 
 
